@@ -1,0 +1,21 @@
+html body, h1, div. h2{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  text-align:inherit;
+  text-decoration: inherit;
+  color: inherit;
+}
+
+h2{
+  font-family:play;
+  font-size: 70px;
+}
+.clocks{
+  background-color: gold;
+  width: 350px;
+    border: solid;
+
+}
